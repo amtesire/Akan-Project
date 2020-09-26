@@ -11,8 +11,13 @@ body{
 #akan{
     width: 40%;
     text-transform: uppercase;
-  text-decoration: none;
-  display: inline-block;
-  font-weight: 700;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#akan:hover{
+    box-shadow: rgba(255, 255, 255, 0.6);
+    background: rgb(11, 5, 26);
+    color: rgba(134, 138, 122, 0.7);
 }
