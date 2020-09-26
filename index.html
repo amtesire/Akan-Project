@@ -16,6 +16,28 @@
       <br>This application will help us know the day of the birth and the name you would be called if you were born in Ghana.
     <br>If you submit the application it will dislay your akan name depending on the day of your birth.</p>
     </div>
-
+    <form>
+        <div class="form-group">
+          <label for="usr">Names:</label><br>
+          <input type="text" class="form-control" id="usr" name="Name">
+        
+          <h2>Gender:</h2>
+        <input type="radio" name="Gender" value="Male">
+        Male<br>
+        <input type="radio" name="Gender" value="Female">
+        Female
+        <h3>Date of Birth</h3>
+        <input type="date" id="result" name="date">
+      </div>
+      </form> 
+      <div class="form-group">
+        <label for="akan">Your akanName is:<p id="akan"></p></label>
+       </div>
+       
+        <button type="submit" id="akan" class="btn btn-primary" onclick="akanName()">Submit</button>
+       <br>
+       <br>
+       
+    </div>
 </body>
 </html>
