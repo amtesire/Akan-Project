@@ -8,3 +8,11 @@ body{
 .form-group{
     width: 40%;
 }
+#akan{
+    width: 40%;
+    text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
