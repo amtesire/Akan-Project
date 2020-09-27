@@ -17,6 +17,7 @@ I used HTML ,CSS ,JS and also BOOTSTRAP to make my website look more beautiful.
 For more information reach out to me on tel:+250781219880, or on e-mail: tesiregisele@gmail.com
 ### License
 MIT License
+
+
 Permission is hereby granted to any person who would like to copy, edit or modify, merge, publish, distribute, sublicense. 
 Copyright (c)2020Akan-Project
-  
