@@ -11,6 +11,7 @@ If you submit the application it will dislay your akan name depending on the day
 
 ## Known Bugs
 I haven't been able to make the akan names be displayed in its border-box but when the date of birth is inserted in ,the akan names is displayed but not in the box.
+And also The Akan names are not being displayed according their day of birth and i don't know what's wrong.
 ## Technologies Used
 I used HTML ,CSS ,JS and also BOOTSTRAP to make my website look more beautiful.
 ## Support and contact details
