@@ -62,4 +62,3 @@ else if(day == 6 && gender == "Female"){
 
 }
 
-
